@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StoryTeller.UI/1.0.0": {
+        "dependencies": {
+          "StoryTeller.Data": "1.0.0",
+          "StoryTeller.Repository": "1.0.0"
+        },
+        "runtime": {
+          "StoryTeller.UI.dll": {}
+        }
+      },
+      "StoryTeller.Data/1.0.0": {
+        "runtime": {
+          "StoryTeller.Data.dll": {}
+        }
+      },
+      "StoryTeller.Repository/1.0.0": {
+        "dependencies": {
+          "StoryTeller.Data": "1.0.0"
+        },
+        "runtime": {
+          "StoryTeller.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoryTeller.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoryTeller.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoryTeller.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

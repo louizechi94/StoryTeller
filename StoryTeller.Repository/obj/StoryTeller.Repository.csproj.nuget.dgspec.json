@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TellAStory\\StoryTeller.Repository\\StoryTeller.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\TellAStory\\StoryTeller.Data\\StoryTeller.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TellAStory\\StoryTeller.Data\\StoryTeller.Data.csproj",
+        "projectName": "StoryTeller.Data",
+        "projectPath": "C:\\TellAStory\\StoryTeller.Data\\StoryTeller.Data.csproj",
+        "packagesPath": "C:\\Users\\ouiza\\.nuget\\packages\\",
+        "outputPath": "C:\\TellAStory\\StoryTeller.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ouiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TellAStory\\StoryTeller.Repository\\StoryTeller.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TellAStory\\StoryTeller.Repository\\StoryTeller.Repository.csproj",
+        "projectName": "StoryTeller.Repository",
+        "projectPath": "C:\\TellAStory\\StoryTeller.Repository\\StoryTeller.Repository.csproj",
+        "packagesPath": "C:\\Users\\ouiza\\.nuget\\packages\\",
+        "outputPath": "C:\\TellAStory\\StoryTeller.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ouiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\TellAStory\\StoryTeller.Data\\StoryTeller.Data.csproj": {
+                "projectPath": "C:\\TellAStory\\StoryTeller.Data\\StoryTeller.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

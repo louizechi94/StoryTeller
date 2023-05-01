@@ -1,0 +1,9 @@
+We want to tell story.
+
+want the user make decisions which determines an outcome.
+
+what does a story contains?
+
+-Charaxters => lets make a class of 'Charcters'
+-Worlds => lets make a class of 'World'
+-Items => lets make a class of 'Item'

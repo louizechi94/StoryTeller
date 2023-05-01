@@ -1,0 +1,15 @@
+C:\TellAStory\StoryTeller.Repository\bin\Debug\net7.0\StoryTeller.Repository.deps.json
+C:\TellAStory\StoryTeller.Repository\bin\Debug\net7.0\StoryTeller.Repository.dll
+C:\TellAStory\StoryTeller.Repository\bin\Debug\net7.0\StoryTeller.Repository.pdb
+C:\TellAStory\StoryTeller.Repository\bin\Debug\net7.0\StoryTeller.Data.dll
+C:\TellAStory\StoryTeller.Repository\bin\Debug\net7.0\StoryTeller.Data.pdb
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.csproj.AssemblyReference.cache
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.AssemblyInfoInputs.cache
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.AssemblyInfo.cs
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.csproj.CoreCompileInputs.cache
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.csproj.CopyComplete
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.dll
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\refint\StoryTeller.Repository.dll
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\StoryTeller.Repository.pdb
+C:\TellAStory\StoryTeller.Repository\obj\Debug\net7.0\ref\StoryTeller.Repository.dll
